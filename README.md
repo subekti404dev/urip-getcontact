@@ -1,5 +1,7 @@
 # Urip GetContact
 
+(Not Working Anymore)
+
 an unofficial api wrapper for getcontact
 
 ### How to Install
